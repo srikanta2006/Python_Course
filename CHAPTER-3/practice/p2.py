@@ -1,4 +1,6 @@
 # filling letter template
+#using replace
+
 
 letter = '''
 Dear <|name|>
