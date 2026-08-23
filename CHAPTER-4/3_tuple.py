@@ -12,5 +12,4 @@ print(type(b))
 
 #with one element
 
-c = (2,) # ',' is necessary because interpreter thinks (2) as an integer enclosed in brackets
-
+c = (2,)  # ',' is necessary because interpreter thinks (2) as an integer enclosed in brackets
